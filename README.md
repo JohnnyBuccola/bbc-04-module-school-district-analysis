@@ -27,3 +27,5 @@ All of the district and school-focused summaries were then updated, removing the
 
 ## Summary
 Removing the 9th graders' scores from the THS data set had little impact on the overall analysis of the results. This is because this group of students performed, on average, roughly the same as the students in 10th-12th grades at THS.  The only significant impact is that the _Scores by Grade_ breakdown no longer contains data for this segment.
+
+ 
